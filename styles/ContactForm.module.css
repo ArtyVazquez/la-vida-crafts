@@ -1,0 +1,10 @@
+.form{
+    width: 600px;
+    height: 500px;
+    background-color: rgb(255, 236, 239);
+    position:fixed;
+}
+
+.name{
+    max-width: 50px;
+}

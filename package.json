@@ -18,5 +18,22 @@
   "devDependencies": {
     "eslint": "8.16.0",
     "eslint-config-next": "12.1.6"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtyVazquez/la-vida-crafts.git"
+  },
+  "keywords": [
+    "decor",
+    "events",
+    "etc"
+  ],
+  "author": "Juan Vazquez, Arturo Vazquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArtyVazquez/la-vida-crafts/issues"
+  },
+  "homepage": "https://github.com/ArtyVazquez/la-vida-crafts#readme"
 }
