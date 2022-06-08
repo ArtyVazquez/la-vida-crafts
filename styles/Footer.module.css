@@ -7,9 +7,14 @@
   background-color: rgb(245, 202, 216);
   bottom: 0;
 }
+
+.dis a {
+  color: black;
+}
 .dis a:hover {
   color: salmon;
 }
+
 .imghref {
   padding: 0 1.5rem 0 1.5rem;
 }
