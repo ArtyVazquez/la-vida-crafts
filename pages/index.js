@@ -1,8 +1,8 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import MyNav from '../components/navbar/MyNav.js'
-import styles from '../styles/Home.module.css'
 import Greetings from '../components/home/Greetings.js'
+import MiniGallery from '../components/home/MiniGallery.js'
 
 
 export default function Home() {
@@ -15,6 +15,8 @@ export default function Home() {
       </Head>
 
       <Greetings />
+
+      <MiniGallery />
 
     </>
   )

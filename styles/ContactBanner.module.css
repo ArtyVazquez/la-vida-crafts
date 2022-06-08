@@ -5,10 +5,23 @@
 }
 
 .title {
-  color: salmon;
-  font-size: 4rem;
+  color: #fa8072;
+  font-size: 5rem;
 }
 
 .text {
-  font-size: 1.5rem;
+  font-size: 1.6rem;
+}
+
+@media (max-width: 600px) {
+  .box {
+    padding: 1rem;
+    width: 100%;
+    margin: auto;
+  }
+  
+  .title {
+    color: salmon;
+    font-size: 3rem;
+  }
 }

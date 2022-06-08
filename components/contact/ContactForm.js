@@ -1,14 +1,9 @@
-
-import { Form, Row, Col, Button } from 'react-bootstrap'
+import { Form, Button } from 'react-bootstrap'
 import styles from '/styles/ContactForm.module.css'
 function ContactForm() {
   return (
-
-    // <div className={styles.form}>
     <div className={styles.form}>
-
-    
-        <Form action="https://formsubmit.co/avazquez1699@gmail.com" method="POST" className="text-center p-5">
+        <Form action="https://formsubmit.co/craftslavida@gmail.com" method="POST" className="text-center p-5">
             <Form.Group className="mb-3" controlId="forname">
                 <Form.Control name="name" placeholder="Name: " required/>
             </Form.Group>
@@ -25,9 +20,7 @@ function ContactForm() {
                 Send
             </Button> 
         </Form>
-    
     </div>
-    
   )
 }
 

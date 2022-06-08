@@ -3,6 +3,11 @@
   margin: 3rem;
   box-shadow: 3px 3px 3px 3px;
   color: rgb(245, 202, 216);
-  border-radius: .5rem;
+  border-radius: 1rem;
   overflow: 'hidden';
+}
+
+
+.imgRound {
+  border-radius: 1rem;
 }
