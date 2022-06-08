@@ -1,12 +1,9 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap'); */
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
 html,
 body {
   padding: 0;
   margin: 0;
-  /* font-family: 'Caveat Brush', cursive; */
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Caveat Brush', cursive;
 }
 
 a {
