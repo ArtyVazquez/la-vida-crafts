@@ -1,0 +1,8 @@
+.card {
+  padding: .2rem;
+  margin: 3rem;
+  box-shadow: 3px 3px 3px 3px;
+  color: rgb(245, 202, 216);
+  border-radius: .5rem;
+  overflow: 'hidden';
+}

@@ -1,0 +1,17 @@
+.dis {
+  padding: 1rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(245, 202, 216);
+  bottom: 0;
+}
+
+.imghref {
+  padding: 0 1.5rem 0 1.5rem;
+}
+
+.imghref :hover{
+  transform: scale(1.1);
+}
