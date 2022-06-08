@@ -1,6 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
-import MyNav from '../components/navbar/MyNav.js'
 import Greetings from '../components/home/Greetings.js'
 import MiniGallery from '../components/home/MiniGallery.js'
 
