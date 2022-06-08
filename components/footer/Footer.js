@@ -5,7 +5,7 @@ export default function footer() {
   return (
     <>
       <div className={styles.dis}>
-        <a className={styles.imghref}  href='https://www.facebook.com/Lavidacrafts/' target='_blank'>
+        <a className={styles.imghref}  href='https://www.facebook.com/Lavidacrafts/' target='_blank'  rel="noopener noreferrer">
           <Image
                       src='/Images/facebook.png'
                       alt="Facebook logo"
@@ -13,7 +13,7 @@ export default function footer() {
                       width={50}
                       objectFit="responsive" />
         </a>
-        <a className={styles.imghref} href='https://instagram.com/Lavidacrafts1' target='_blank'>
+        <a className={styles.imghref} href='https://instagram.com/Lavidacrafts1' target='_blank'  rel="noopener noreferrer">
           <Image
                         src='/Images/instagram.png'
                         alt="instagram logo"
@@ -21,7 +21,7 @@ export default function footer() {
                         width={50}
                         objectFit="responsive" />
         </a>
-        <a className={styles.imghref} href='https://tiktok.com/@Lavidacrafts1' target='_blank'>
+        <a className={styles.imghref} href='https://tiktok.com/@Lavidacrafts1' target='_blank'  rel="noopener noreferrer">
           <Image
                       src='/Images/tiktok.png'
                       alt="tiktok logo"

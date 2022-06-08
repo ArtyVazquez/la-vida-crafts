@@ -14,7 +14,6 @@ export default function gallery() {
         {[...Array(25)].map((x, i) =>
          {
             let dest = "/Gallery/i" + i + ".jpeg";
-            console.log(dest);
             return <ImgCard des={dest} key={i}/>
          }
         )}
