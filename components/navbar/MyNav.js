@@ -9,8 +9,8 @@ export default function MyNav() {
           <Image
               src="/lvclogo.png"
               alt="la vida crafts logo"
-              width={90}
-              height={90}
+              width={50}
+              height={50}
           />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
